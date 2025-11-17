@@ -1,18 +1,28 @@
-<h1 align="center">Oi 👋, eu sou Gabriel Silva</h1>
-<h3 align="center">Desenvolvedor .NET Pleno e grande admirador da tecnologia</h3>
+<h1 align="center">
+  Oi, eu sou Gabriel Silva 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="emoji acenando">
+</h1>
+<h3 align="center">
+  Desenvolvedor e grande admirador da tecnologia 
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="28px" alt="emoji programando">
+</h3>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/gbrgabriel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%40gbrgabriel-blue?logo=linkedin&style=for-the-badge" alt="@gbrgabriel" />
   </a> 
 </p>
 
+<p align="center">
+  <a href="https://github.com/gbrgabriel" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20(antigo)-gbrgabriel-black?logo=github&style=for-the-badge" alt="github antigo" />
+  </a>
+</p>
 
-- 🔭 Atualmente, sou [Desenvolvedor .NET Pleno](https://www.linkedin.com/in/gbrgabriel/), trabalhei com projetos legados e novos, utilizando ferramentas e linguagens como **RabbitMQ**, **Angular**, **EF Core**, **DDD**, **MVC** e outras tecnologias relacionadas ao ecossistema .NET.
-- 🌱 Estou em busca de certificações da Microsoft e AWS com foco no futuro de me tornar **Arquiteto de Software**, e continuo aprendendo e aprimorando minhas habilidades em **.NET**, **C#**, **AWS** e outras tecnologias relevantes.
+- 🔭 Atualmente, trabalho com o ecossistema .NET. Já trabalhei tanto com projetos legados quanto com projetos novos, utilizando tecnologias como RabbitMQ, Angular, EF Core, DDD, MVC, Azure e outras ferramentas do ecossistema .NET.
+- 🌱 Estou em busca de certificações da Microsoft e sigo trilhando o caminho para me tornar Arquiteto de Software, sempre aprendendo e aprimorando minhas habilidades em .NET, C#, Azure e tecnologias relacionadas.
 - 📝 Costumo compartilhar meus aprendizados e experiências em artigos no <a href="https://medium.com/@gbrdev.contato" target="blank">Medium.</a>
-- 💬 Pergunte-me sobre **.NET**, **C#**, **RabbitMQ**, **EF Core**, **DDD**, **Arquitetura de Software**, **Certificações Microsoft**, **Desenvolvimento de Software**, e **Trabalho com Projetos Legados**.
-- 📄 Confira minha experiência profissional no <a href="https://drive.google.com/file/d/1wR7ahuUWnfsoxCgDXWPpqD0mPagCBjBt/view?usp=sharing" target="_blank"> Meu Currículo.</a>
--  ⚡ Fato divertido - **Sou tão fã de .NET que, se você me perguntar, até sei o nome do compilador do C#... É o Roslyn! Não é todo dia que você encontra um compilador com nome, mas se eu topar com ele, com certeza vou pedir um "hello world"!**
+- 📄 Confira minha experiência profissional no meu <a href="https://drive.google.com/file/d/1wR7ahuUWnfsoxCgDXWPpqD0mPagCBjBt/view?usp=sharing" target="_blank">currículo</a>.
+- ⚡Fato divertido — já trabalhei tanto com .NET que até o compilador do C#, o Roslyn, virou nome conhecido pra mim.
 ---
 
 <h3 align="center">Entre em contato comigo:</h3>
