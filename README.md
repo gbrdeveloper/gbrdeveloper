@@ -21,7 +21,7 @@
 - 🔭 Atualmente, trabalho com o ecossistema .NET. Já trabalhei tanto com projetos legados quanto com projetos novos, utilizando tecnologias como RabbitMQ, Angular, EF Core, DDD, MVC, Azure e outras ferramentas do ecossistema .NET.
 - 🌱 Estou em busca de certificações da Microsoft e sigo trilhando o caminho para me tornar Arquiteto de Software, sempre aprendendo e aprimorando minhas habilidades em .NET, C#, Azure e tecnologias relacionadas.
 - 📝 Costumo compartilhar meus aprendizados e experiências em artigos no <a href="https://medium.com/@gbrdev.contato" target="blank">Medium.</a>
-- 📄 Confira minha experiência profissional no meu <a href="https://drive.google.com/file/d/1Uv97r9HJYcOCgK1-MSiH9TqBsnhzKgls/view" target="_blank">currículo</a>.
+- 📄 Confira minha experiência profissional no meu <a href="https://drive.google.com/file/d/193HtaBvtraOoglFY9U8sOPOUCH5kxgzB/view?usp=sharing" target="_blank">currículo</a>.
 - ⚡Fato divertido — já trabalhei tanto com .NET que até o compilador do C#, o Roslyn, virou nome conhecido pra mim.
 ---
 
