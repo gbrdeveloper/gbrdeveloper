@@ -83,6 +83,19 @@ Para observabilidade, OpenTelemetry como base de instrumentação e Grafana para
   <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white&color=000000" alt="Docker" />
 </p>
 
+<div align="center">
+  <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="border:0;border-collapse:collapse;margin:0 auto;">
+    <tr>
+      <td style="border:0;padding:0;vertical-align:top;">
+        <img src="metrics-traffic.svg" alt="Traffic" width="400" />
+      </td>
+      <td style="border:0;padding:0 0 0 16px;vertical-align:top;">
+        <img src="metrics-languages.svg" alt="Languages" width="400" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 <p align="center">
   <img src="metrics-calendar.svg" alt="Contributions calendar" />
 </p>

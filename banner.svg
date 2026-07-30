@@ -1,44 +1,68 @@
-<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <pattern id="dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="1" r="0.85" fill="#ffffff" opacity="0.07"/>
+    <pattern id="grid" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-width="0.4" opacity="0.04"/>
     </pattern>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#161b22;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
+    </linearGradient>
   </defs>
 
-  <rect width="900" height="200" fill="#0a0c10"/>
-  <rect width="900" height="200" fill="url(#dots)"/>
+  <!-- Background -->
+  <rect width="900" height="220" fill="#0d1117"/>
+  <rect width="900" height="220" fill="url(#grid)"/>
 
-  <text x="450" y="70"
+  <!-- Accent line left -->
+  <line x1="60" y1="40" x2="60" y2="180" stroke="#388bfd" stroke-width="1.5" opacity="0.3"/>
+  <!-- Accent line right -->
+  <line x1="840" y1="40" x2="840" y2="180" stroke="#388bfd" stroke-width="1.5" opacity="0.3"/>
+
+  <!-- Terminal window -->
+  <rect x="130" y="28" width="640" height="164" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Title bar -->
+  <rect x="130" y="28" width="640" height="30" rx="8" fill="#21262d"/>
+  <rect x="130" y="46" width="640" height="12" fill="#21262d"/>
+
+  <!-- Traffic lights -->
+  <circle cx="158" cy="43" r="5.5" fill="#ff5f57"/>
+  <circle cx="178" cy="43" r="5.5" fill="#febc2e"/>
+  <circle cx="198" cy="43" r="5.5" fill="#28c840"/>
+
+  <!-- Window title -->
+  <text x="450" y="48"
     text-anchor="middle"
-    font-family="system-ui, -apple-system, 'Segoe UI', sans-serif"
-    font-size="19" font-weight="300" font-style="italic"
-    fill="rgba(230,237,243,0.90)">
-    Projetando ecossistemas digitais sustent&#xE1;veis,
+    font-family="'Cascadia Code', 'Fira Code', 'Courier New', monospace"
+    font-size="11" fill="#8b949e">
+    bash — gabriel@azure
   </text>
 
-  <text x="450" y="102"
-    text-anchor="middle"
-    font-family="system-ui, -apple-system, 'Segoe UI', sans-serif"
-    font-size="19" font-weight="300" font-style="italic"
-    fill="rgba(230,237,243,0.38)">
-    transformando problemas complexos
+  <!-- Terminal content line 1 -->
+  <text y="92" font-family="'Cascadia Code', 'Fira Code', 'Courier New', monospace" font-size="13">
+    <tspan x="162" fill="#57ab5a">gabriel@azure</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3">architect </tspan><tspan fill="#ffa657">--list-domains</tspan>
   </text>
 
-  <text x="450" y="134"
-    text-anchor="middle"
-    font-family="system-ui, -apple-system, 'Segoe UI', sans-serif"
-    font-size="19" font-weight="300" font-style="italic"
-    fill="rgba(230,237,243,0.90)">
-    em arquiteturas elegantes.
+  <!-- Terminal output -->
+  <text y="115" font-family="'Cascadia Code', 'Fira Code', 'Courier New', monospace" font-size="12" fill="#8b949e">
+    <tspan x="162">→ </tspan><tspan fill="#79c0ff">.NET/</tspan><tspan fill="#8b949e">   </tspan><tspan fill="#79c0ff">Azure/</tspan><tspan fill="#8b949e">   </tspan><tspan fill="#79c0ff">Architecture/</tspan><tspan fill="#8b949e">   </tspan><tspan fill="#79c0ff">FinOps/</tspan>
+  </text>
+  <text y="134" font-family="'Cascadia Code', 'Fira Code', 'Courier New', monospace" font-size="12" fill="#8b949e">
+    <tspan x="162">→ </tspan><tspan fill="#79c0ff">Observability/</tspan><tspan fill="#8b949e">   </tspan><tspan fill="#79c0ff">DDD/</tspan><tspan fill="#8b949e">   </tspan><tspan fill="#79c0ff">OpenTelemetry/</tspan>
   </text>
 
-  <line x1="310" y1="154" x2="590" y2="154" stroke="rgba(255,255,255,0.11)" stroke-width="0.6"/>
+  <!-- Terminal line 2 -->
+  <text y="157" font-family="'Cascadia Code', 'Fira Code', 'Courier New', monospace" font-size="13">
+    <tspan x="162" fill="#57ab5a">gabriel@azure</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#e6edf3" opacity="0.5">_</tspan>
+  </text>
 
-  <text x="450" y="174"
+  <!-- Bottom tagline -->
+  <text x="450" y="205"
     text-anchor="middle"
     font-family="system-ui, -apple-system, 'Segoe UI', sans-serif"
-    font-size="9.5" font-weight="400" letter-spacing="2.8"
-    fill="rgba(230,237,243,0.28)">
+    font-size="9.5" font-weight="400" letter-spacing="2.5"
+    fill="rgba(230,237,243,0.22)">
     ARQUITETO DE SOLU&#xC7;&#xD5;ES EM NUVEM E SOFTWARE &#xB7; ENGENHEIRO DE SOFTWARE S&#xCA;NIOR
   </text>
 </svg>
