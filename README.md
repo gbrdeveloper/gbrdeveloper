@@ -100,23 +100,13 @@ Comunicação técnica em três idiomas — essencial pra trabalhar com document
 
 ## Projetos em destaque
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-EM%20CONSTRUÇÃO-black?style=for-the-badge&color=2d333b" />
-</p>
+<img align="right" src="deco-projects.svg" width="170" alt="Em construção" />
 
-Repositórios sendo organizados e documentados para publicação pública. A maioria do trabalho relevante vive em ambientes privados — arquiteturas, integrações e sistemas de produção que não cabem num repo aberto. Em breve, projetos selecionados por aqui.
+Repositórios sendo organizados e documentados para publicação pública. A maioria do trabalho relevante vive em ambientes privados — arquiteturas, integrações e sistemas de produção que não cabem num repo aberto.
 
-<p>
-  <a href="https://github.com/gbrdeveloper/NotionManagerNet"><img src="https://img.shields.io/badge/NotionManagerNet-repositório-black?style=for-the-badge&logo=github&logoColor=white&color=000000" alt="NotionManagerNet" /></a>
-</p>
+Em breve, projetos selecionados por aqui.
 
-Gerenciador de tarefas pessoal integrado ao **Notion API** construído em C# e .NET. Conecta diretamente à workspace do Notion para criar, listar e gerenciar tasks sem sair do terminal — menos fricção, mais foco.
-
-<p>
-  <a href="https://github.com/gbrdeveloper/TransfereDot"><img src="https://img.shields.io/badge/TransfereDot-repositório-black?style=for-the-badge&logo=github&logoColor=white&color=000000" alt="TransfereDot" /></a>
-</p>
-
-API de gerenciamento de transferências financeiras em **.NET e C#** com foco em consistência de dados e operações seguras. Arquitetura pensada para rastreabilidade e auditoria das transações.
+<br clear="both" />
 
 ---
 
