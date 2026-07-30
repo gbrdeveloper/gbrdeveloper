@@ -8,9 +8,6 @@
   <rect width="900" height="264" fill="#0d1117"/>
   <rect width="900" height="264" fill="url(#grid)"/>
 
-  <line x1="58" y1="30" x2="58" y2="232" stroke="#388bfd" stroke-width="1.5" opacity="0.25"/>
-  <line x1="842" y1="30" x2="842" y2="232" stroke="#388bfd" stroke-width="1.5" opacity="0.25"/>
-
   <!-- Terminal window -->
   <rect x="100" y="18" width="700" height="226" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
   <rect x="100" y="18" width="700" height="30" rx="8" fill="#21262d"/>
@@ -61,9 +58,9 @@
     <tspan x="128" fill="#57ab5a">gabriel@azure</tspan><tspan fill="#8b949e">:~$ </tspan><tspan fill="#e6edf3" opacity="0.35">_</tspan>
   </text>
 
-  <text x="450" y="251"
+  <text x="450" y="257"
     text-anchor="middle"
     font-family="system-ui,-apple-system,'Segoe UI',sans-serif"
     font-size="9" letter-spacing="2.5"
-    fill="rgba(230,237,243,0.17)">ARQUITETO DE SOLU&#xC7;&#xD5;ES EM NUVEM E SOFTWARE &#xB7; ENGENHEIRO DE SOFTWARE S&#xCA;NIOR</text>
+    fill="rgba(230,237,243,0.38)">ARQUITETO DE SOLU&#xC7;&#xD5;ES EM NUVEM E SOFTWARE &#xB7; ENGENHEIRO DE SOFTWARE S&#xCA;NIOR</text>
 </svg>
