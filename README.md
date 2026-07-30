@@ -34,7 +34,7 @@ Passei por todas as etapas da engenharia de software — do código do dia a dia
 
 ## No momento
 
-Arquiteto de Soluções na **Size FinTech**, com foco em três frentes:
+Atualmente como Arquiteto de Soluções, com foco em três frentes:
 
 - **FinOps na prática** — governança de custos Azure com budgets, auto-scaling e scale-down programados. O objetivo é infraestrutura que paga pelo que usa, não pelo que foi alocado.
 - **Observabilidade como cultura** — stack unificada com OpenTelemetry, Application Insights e Grafana. Rastreabilidade distribuída desde o primeiro request até o banco.
