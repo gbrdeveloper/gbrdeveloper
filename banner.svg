@@ -1,0 +1,44 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.85" fill="#ffffff" opacity="0.07"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="200" fill="#0a0c10"/>
+  <rect width="900" height="200" fill="url(#dots)"/>
+
+  <text x="450" y="70"
+    text-anchor="middle"
+    font-family="system-ui, -apple-system, 'Segoe UI', sans-serif"
+    font-size="19" font-weight="300" font-style="italic"
+    fill="rgba(230,237,243,0.90)">
+    Projetando ecossistemas digitais sustent&#xE1;veis,
+  </text>
+
+  <text x="450" y="102"
+    text-anchor="middle"
+    font-family="system-ui, -apple-system, 'Segoe UI', sans-serif"
+    font-size="19" font-weight="300" font-style="italic"
+    fill="rgba(230,237,243,0.38)">
+    transformando problemas complexos
+  </text>
+
+  <text x="450" y="134"
+    text-anchor="middle"
+    font-family="system-ui, -apple-system, 'Segoe UI', sans-serif"
+    font-size="19" font-weight="300" font-style="italic"
+    fill="rgba(230,237,243,0.90)">
+    em arquiteturas elegantes.
+  </text>
+
+  <line x1="310" y1="154" x2="590" y2="154" stroke="rgba(255,255,255,0.11)" stroke-width="0.6"/>
+
+  <text x="450" y="174"
+    text-anchor="middle"
+    font-family="system-ui, -apple-system, 'Segoe UI', sans-serif"
+    font-size="9.5" font-weight="400" letter-spacing="2.8"
+    fill="rgba(230,237,243,0.28)">
+    ARQUITETO DE SOLU&#xC7;&#xD5;ES EM NUVEM E SOFTWARE &#xB7; ENGENHEIRO DE SOFTWARE S&#xCA;NIOR
+  </text>
+</svg>

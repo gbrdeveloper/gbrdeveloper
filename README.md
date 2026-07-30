@@ -1,18 +1,17 @@
 <p align="center">
+  <img src="banner.svg" width="100%" alt="Gabriel Silva" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-black?style=for-the-badge&color=000000" />
   <img src="https://img.shields.io/badge/STACK-.NET%20%26%20AZURE-black?style=for-the-badge&color=000000" />
   <img src="https://img.shields.io/badge/FOCUS-CLOUD%20ARCHITECTURE-black?style=for-the-badge&color=000000" />
   <img src="https://img.shields.io/badge/LOC-ARARAQUARA%2C%20SP-black?style=for-the-badge&color=000000" />
 </p>
 
+---
+
 <div align="center">
-
-# Gabriel Silva
-
-**Arquiteto de Soluções em Nuvem e Software · Engenheiro de Software Sênior**
-
-*Projetando ecossistemas digitais sustentáveis,*  
-*transformando problemas complexos em arquiteturas elegantes.*
 
 <a href="https://linkedin.com/in/gbrgabriel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-gbrgabriel-0077B5?logo=linkedin&style=flat-square" alt="LinkedIn" /></a>
 <a href="https://medium.com/@gbrdev.contato" target="_blank"><img src="https://img.shields.io/badge/Medium-@gbrdev.contato-000000?logo=medium&style=flat-square" alt="Medium" /></a>
@@ -47,6 +46,22 @@ Arquiteto de Soluções na **Size FinTech**, com foco em três frentes:
 
 ---
 
+## Projetos em destaque
+
+<p>
+  <a href="https://github.com/gbrdeveloper/NotionManagerNet" target="_blank"><img src="https://img.shields.io/badge/NotionManagerNet-repositório-black?style=for-the-badge&logo=github&logoColor=white&color=000000" alt="NotionManagerNet" /></a>
+</p>
+
+Gerenciador de tarefas pessoal integrado ao **Notion API** construído em C# e .NET. Conecta diretamente à workspace do Notion para criar, listar e gerenciar tasks sem sair do terminal — menos fricção, mais foco.
+
+<p>
+  <a href="https://github.com/gbrdeveloper/TransfereDot" target="_blank"><img src="https://img.shields.io/badge/TransfereDot-repositório-black?style=for-the-badge&logo=github&logoColor=white&color=000000" alt="TransfereDot" /></a>
+</p>
+
+API de gerenciamento de transferências financeiras em **.NET e C#** com foco em consistência de dados e operações seguras. Arquitetura pensada para rastreabilidade e auditoria das transações.
+
+---
+
 ## Stack e ferramentas
 
 Vivo no ecossistema **.NET (C#)** e **Microsoft Azure**. No dia a dia, Clean Architecture e DDD para manter sistemas grandes organizados, Azure Service Bus e RabbitMQ para comunicação assíncrona, e EF Core com SQL Server e PostgreSQL no lado dos dados.
@@ -66,4 +81,24 @@ Para observabilidade, OpenTelemetry como base de instrumentação e Grafana para
   <img src="https://img.shields.io/badge/Grafana-000?style=for-the-badge&logo=grafana&logoColor=white&color=000000" alt="Grafana" />
   <img src="https://img.shields.io/badge/Azure%20DevOps-000?style=for-the-badge&logo=azuredevops&logoColor=white&color=000000" alt="Azure DevOps" />
   <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white&color=000000" alt="Docker" />
+</p>
+
+<p align="center">
+  <img src="metrics-calendar.svg" alt="Contributions calendar" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gbrdeveloper/gbrdeveloper/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/gbrgabriel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://medium.com/@gbrdev.contato" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=flat-square" alt="Medium" /></a>
+  &nbsp;
+  <a href="https://linktr.ee/gbrGabriel" target="_blank"><img src="https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white&style=flat-square" alt="Linktree" /></a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/193HtaBvtraOoglFY9U8sOPOUCH5kxgzB/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Currículo-EA4335?logo=googledrive&logoColor=white&style=flat-square" alt="Currículo" /></a>
 </p>
