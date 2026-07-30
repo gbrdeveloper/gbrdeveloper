@@ -42,9 +42,7 @@ Arquiteto de Soluções na **Size FinTech**, com foco em três frentes:
 - **Modernização real** — migração de .NET Core 2.1 → .NET 10, ambientes 100% Linux em Azure App Service e Container Apps. Menos dívida técnica, mais velocidade de entrega.
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gbrdeveloper&theme=github-compact&hide_border=true" alt="Gráfico de atividade no GitHub" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gbrdeveloper&bg_color=0d1117&color=e6edf3&line=388bfd&point=79c0ff&area=true&hide_border=true" alt="Gráfico de atividade" />
 </p>
 
 ---
@@ -68,25 +66,4 @@ Para observabilidade, OpenTelemetry como base de instrumentação e Grafana para
   <img src="https://img.shields.io/badge/Grafana-000?style=for-the-badge&logo=grafana&logoColor=white&color=000000" alt="Grafana" />
   <img src="https://img.shields.io/badge/Azure%20DevOps-000?style=for-the-badge&logo=azuredevops&logoColor=white&color=000000" alt="Azure DevOps" />
   <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white&color=000000" alt="Docker" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gbrdeveloper/gbrdeveloper/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/gbrgabriel/" target="_blank" style="display: inline-block; padding: 0 16px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="24" height="24" />
-  </a>
-  <a href="https://medium.com/@gbrdev.contato" target="_blank" style="display: inline-block; padding: 0 16px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="24" height="24" />
-  </a>
-  <a href="https://linktr.ee/gbrGabriel" target="_blank" style="display: inline-block; padding: 0 16px;">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png" alt="Linktree" width="24" height="24" />
-  </a>
-  <a href="https://drive.google.com/file/d/193HtaBvtraOoglFY9U8sOPOUCH5kxgzB/view?usp=sharing" target="_blank" style="display: inline-block; padding: 0 16px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-drive.png" alt="Currículo" width="24" height="24" />
-  </a>
 </p>
