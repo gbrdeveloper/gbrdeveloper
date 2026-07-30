@@ -54,7 +54,50 @@ Atualmente como Arquiteto de Soluções, com foco em três frentes:
 
 ---
 
+## Stack e ferramentas
+
+Vivo no ecossistema **.NET (C#)** e **Microsoft Azure**. No dia a dia, Clean Architecture e DDD para manter sistemas grandes organizados, Azure Service Bus e RabbitMQ para comunicação assíncrona, e EF Core com SQL Server e PostgreSQL no lado dos dados.
+
+Para observabilidade, OpenTelemetry como base de instrumentação e Grafana para visualização. Pipelines no Azure DevOps com GitFlow — e quando algo leva mais de 5 minutos sem motivo, vira um item de otimização.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=white&color=000000" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet&logoColor=white&color=000000" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-000?style=for-the-badge&logo=dotnet&logoColor=white&color=000000" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=microsoftazure&logoColor=white&color=000000" alt="Azure" />
+  <img src="https://img.shields.io/badge/SQL%20Server-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&color=000000" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white&color=000000" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/RabbitMQ-000?style=for-the-badge&logo=rabbitmq&logoColor=white&color=000000" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000?style=for-the-badge&logo=opentelemetry&logoColor=white&color=000000" alt="OpenTelemetry" />
+  <img src="https://img.shields.io/badge/Grafana-000?style=for-the-badge&logo=grafana&logoColor=white&color=000000" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-000?style=for-the-badge&logo=azuredevops&logoColor=white&color=000000" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white&color=000000" alt="Docker" />
+  <img src="https://img.shields.io/badge/EF%20Core-000?style=for-the-badge&logo=dotnet&logoColor=white&color=000000" alt="EF Core" />
+</p>
+
+---
+
+## Idiomas
+
+<img align="left" src="deco-lang.svg" width="170" alt="Languages" />
+
+Comunicação técnica em dois idiomas — essencial pra trabalhar com documentação internacional, arquiteturas de referência e times distribuídos.
+
+**Português** — Nativo. Toda a comunicação do dia a dia, documentação técnica, code review e apresentações de arquitetura.
+
+**English** — Profissional. Leitura e escrita técnica fluente: RFCs, docs de plataforma, issues, PRs e comunicação com fornecedores e times externos.
+
+<br clear="both" />
+
+---
+
 ## Projetos em destaque
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-EM%20CONSTRUÇÃO-black?style=for-the-badge&color=2d333b" />
+</p>
+
+Repositórios sendo organizados e documentados para publicação pública. A maioria do trabalho relevante vive em ambientes privados — arquiteturas, integrações e sistemas de produção que não cabem num repo aberto. Em breve, projetos selecionados por aqui.
 
 <p>
   <a href="https://github.com/gbrdeveloper/NotionManagerNet"><img src="https://img.shields.io/badge/NotionManagerNet-repositório-black?style=for-the-badge&logo=github&logoColor=white&color=000000" alt="NotionManagerNet" /></a>
@@ -69,27 +112,6 @@ Gerenciador de tarefas pessoal integrado ao **Notion API** construído em C# e .
 API de gerenciamento de transferências financeiras em **.NET e C#** com foco em consistência de dados e operações seguras. Arquitetura pensada para rastreabilidade e auditoria das transações.
 
 ---
-
-## Stack e ferramentas
-
-Vivo no ecossistema **.NET (C#)** e **Microsoft Azure**. No dia a dia, Clean Architecture e DDD para manter sistemas grandes organizados, Azure Service Bus e RabbitMQ para comunicação assíncrona, e EF Core com SQL Server e PostgreSQL no lado dos dados.
-
-Para observabilidade, OpenTelemetry como base de instrumentação e Grafana para visualização. Pipelines no Azure DevOps — e quando algo leva mais de 5 minutos sem motivo, vira um item de otimização. No frontend, Angular e TypeScript quando a situação pede.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=white&color=000000" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet&logoColor=white&color=000000" alt=".NET" />
-  <img src="https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=microsoftazure&logoColor=white&color=000000" alt="Azure" />
-  <img src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=white&color=000000" alt="Angular" />
-  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white&color=000000" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL%20Server-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&color=000000" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=white&color=000000" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/RabbitMQ-000?style=for-the-badge&logo=rabbitmq&logoColor=white&color=000000" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-000?style=for-the-badge&logo=opentelemetry&logoColor=white&color=000000" alt="OpenTelemetry" />
-  <img src="https://img.shields.io/badge/Grafana-000?style=for-the-badge&logo=grafana&logoColor=white&color=000000" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Azure%20DevOps-000?style=for-the-badge&logo=azuredevops&logoColor=white&color=000000" alt="Azure DevOps" />
-  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white&color=000000" alt="Docker" />
-</p>
 
 <div align="center">
   <table role="presentation" cellspacing="0" cellpadding="0" border="0">
