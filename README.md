@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" width="100%" alt="Gabriel Silva" />
+  <img src="banner.svg?v=3" width="100%" alt="Gabriel Silva" />
 </p>
 
 <p align="center">
