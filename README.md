@@ -24,7 +24,7 @@
 
 ## Sobre mim
 
-<img align="left" src="deco-arch.svg" width="170" alt="Architecture diagram" />
+<img align="left" src="deco-think.svg" width="170" alt="Penso, projeto, aplico" />
 
 Desenvolvedor desde os tempos de ensino técnico em informática e Arquiteto de Soluções no dia a dia. Minha história com tecnologia começou na curiosidade de entender como as coisas funcionam por baixo do capô, e essa mesma motivação é o que me move até hoje.
 
@@ -40,11 +40,12 @@ Passei por todas as etapas da engenharia de software — do código do dia a dia
 
 <img align="right" src="deco-obs.svg" width="170" alt="Observability dashboard" />
 
-Atualmente como Arquiteto de Soluções, com foco em três frentes:
+Arquiteto em evolução contínua — cada sistema entregue é uma oportunidade de aprender o que realmente funciona em escala real. Além das entregas técnicas do dia a dia, estou investindo em:
 
-- **FinOps na prática** — governança de custos Azure com budgets, auto-scaling e scale-down programados. O objetivo é infraestrutura que paga pelo que usa, não pelo que foi alocado.
-- **Observabilidade como cultura** — stack unificada com OpenTelemetry, Application Insights e Grafana. Rastreabilidade distribuída desde o primeiro request até o banco.
-- **Modernização real** — migração de .NET Core 2.1 → .NET 10, ambientes 100% Linux em Azure App Service e Container Apps. Menos dívida técnica, mais velocidade de entrega.
+- **Pensamento estratégico** — conectar decisões de arquitetura ao impacto de negócio. Todo trade-off técnico carrega um custo operacional e um risco de produto que precisa ser comunicado com clareza.
+- **Comunicação de arquitetura** — apresentar sistemas complexos para diferentes audiências: times de engenharia, gestão e stakeholders. Tornar o invisível visível.
+- **Liderança técnica** — code governance, mentoria, padronização e construção de cultura de engenharia através de boas decisões de design.
+- **Cloud-native em profundidade** — resiliência, escalabilidade e FinOps como requisitos de design, não como otimização tardia.
 
 <br clear="both" />
 
@@ -56,9 +57,13 @@ Atualmente como Arquiteto de Soluções, com foco em três frentes:
 
 ## Stack e ferramentas
 
+<img align="right" src="deco-stack.svg" width="170" alt="Craft" />
+
 Vivo no ecossistema **.NET (C#)** e **Microsoft Azure**. No dia a dia, Clean Architecture e DDD para manter sistemas grandes organizados, Azure Service Bus e RabbitMQ para comunicação assíncrona, e EF Core com SQL Server e PostgreSQL no lado dos dados.
 
 Para observabilidade, OpenTelemetry como base de instrumentação e Grafana para visualização. Pipelines no Azure DevOps com GitFlow — e quando algo leva mais de 5 minutos sem motivo, vira um item de otimização.
+
+<br clear="both" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=white&color=000000" alt="C#" />
@@ -81,11 +86,13 @@ Para observabilidade, OpenTelemetry como base de instrumentação e Grafana para
 
 <img align="left" src="deco-lang.svg" width="170" alt="Languages" />
 
-Comunicação técnica em dois idiomas — essencial pra trabalhar com documentação internacional, arquiteturas de referência e times distribuídos.
+Comunicação técnica em três idiomas — essencial pra trabalhar com documentação internacional, arquiteturas de referência e times distribuídos.
 
 **Português** — Nativo. Toda a comunicação do dia a dia, documentação técnica, code review e apresentações de arquitetura.
 
-**English** — Profissional. Leitura e escrita técnica fluente: RFCs, docs de plataforma, issues, PRs e comunicação com fornecedores e times externos.
+**English** — Intermediário (B1). Leitura e escrita técnica: RFCs, docs de plataforma, issues, PRs e comunicação com fornecedores. Em evolução ativa.
+
+**Español** — Básico (A1). Frases e vocabulário fundamentais. Aprendendo ativamente.
 
 <br clear="both" />
 
