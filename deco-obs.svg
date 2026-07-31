@@ -5,58 +5,36 @@
     font-family="'Cascadia Code','Fira Code','Courier New',monospace"
     font-size="8.5" letter-spacing="2" fill="rgba(88,166,255,0.55)">OBSERVABILITY</text>
 
-  <!-- Monitor frame -->
-  <rect x="6" y="22" width="158" height="102" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1.2"/>
-  <!-- Title bar -->
-  <rect x="6" y="22" width="158" height="18" rx="6" fill="#21262d"/>
-  <rect x="6" y="32" width="158" height="8" fill="#21262d"/>
-  <!-- Traffic lights -->
-  <circle cx="20" cy="31" r="3.5" fill="#ff5f57"/>
-  <circle cx="31" cy="31" r="3.5" fill="#febc2e"/>
-  <circle cx="42" cy="31" r="3.5" fill="#28c840"/>
-  <text x="85" y="35" text-anchor="middle"
+  <!-- METRICS -->
+  <rect x="6" y="22" width="158" height="58" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <rect x="6" y="22" width="4" height="58" rx="2" fill="#388bfd"/>
+  <text x="20" y="39" font-family="'Cascadia Code','Fira Code','Courier New',monospace" font-size="10" fill="#79c0ff">&#x2460; METRICS</text>
+  <text x="20" y="51" font-family="'Cascadia Code','Fira Code','Courier New',monospace" font-size="7.5" fill="#8b949e">Grafana · App Insights</text>
+  <polyline points="20,68 38,64 56,66 72,60 88,56 104,58 120,51 140,47 155,43"
+    fill="none" stroke="#388bfd" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+
+  <text x="85" y="91" text-anchor="middle"
     font-family="'Cascadia Code','Fira Code','Courier New',monospace"
-    font-size="7" fill="#8b949e">grafana — prod</text>
+    font-size="14" fill="#388bfd" opacity="0.4">&#x2193;</text>
 
-  <!-- Graph background -->
-  <rect x="14" y="42" width="142" height="74" rx="2" fill="#0d1117"/>
+  <!-- TRACES -->
+  <rect x="6" y="97" width="158" height="58" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <rect x="6" y="97" width="4" height="58" rx="2" fill="#57ab5a"/>
+  <text x="20" y="114" font-family="'Cascadia Code','Fira Code','Courier New',monospace" font-size="10" fill="#57ab5a">&#x2461; TRACES</text>
+  <text x="20" y="126" font-family="'Cascadia Code','Fira Code','Courier New',monospace" font-size="7.5" fill="#8b949e">OpenTelemetry</text>
+  <rect x="20" y="131" width="118" height="5" rx="1.5" fill="#57ab5a" opacity="0.32"/>
+  <rect x="28" y="139" width="68" height="5" rx="1.5" fill="#57ab5a" opacity="0.55"/>
+  <rect x="102" y="139" width="36" height="5" rx="1.5" fill="#79c0ff" opacity="0.45"/>
+  <rect x="36" y="147" width="36" height="5" rx="1.5" fill="#57ab5a" opacity="0.42"/>
 
-  <!-- Grid lines -->
-  <line x1="38" y1="50" x2="150" y2="50" stroke="#21262d" stroke-width="0.8"/>
-  <line x1="38" y1="65" x2="150" y2="65" stroke="#21262d" stroke-width="0.8"/>
-  <line x1="38" y1="80" x2="150" y2="80" stroke="#21262d" stroke-width="0.8"/>
-  <line x1="38" y1="95" x2="150" y2="95" stroke="#21262d" stroke-width="0.8"/>
-  <line x1="38" y1="108" x2="150" y2="108" stroke="#21262d" stroke-width="0.5"/>
+  <text x="85" y="167" text-anchor="middle"
+    font-family="'Cascadia Code','Fira Code','Courier New',monospace"
+    font-size="14" fill="#57ab5a" opacity="0.4">&#x2193;</text>
 
-  <!-- Y axis labels -->
-  <text x="35" y="53" text-anchor="end" font-family="'Cascadia Code','Fira Code','Courier New',monospace" font-size="6" fill="#8b949e">100</text>
-  <text x="35" y="68" text-anchor="end" font-family="'Cascadia Code','Fira Code','Courier New',monospace" font-size="6" fill="#8b949e">75</text>
-  <text x="35" y="83" text-anchor="end" font-family="'Cascadia Code','Fira Code','Courier New',monospace" font-size="6" fill="#8b949e">50</text>
-  <text x="35" y="98" text-anchor="end" font-family="'Cascadia Code','Fira Code','Courier New',monospace" font-size="6" fill="#8b949e">25</text>
-
-  <!-- Graph line (blue - requests/s) -->
-  <polyline points="40,98 55,92 68,95 78,80 90,68 100,72 112,60 124,55 138,50 150,46"
-    fill="none" stroke="#388bfd" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
-  <polygon points="40,108 40,98 55,92 68,95 78,80 90,68 100,72 112,60 124,55 138,50 150,46 150,108"
-    fill="#388bfd" opacity="0.07"/>
-
-  <!-- Graph line (green - p99 latency) -->
-  <polyline points="40,94 55,88 68,90 78,82 90,76 100,78 112,70 124,66 138,62 150,58"
-    fill="none" stroke="#57ab5a" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" opacity="0.75"/>
-
-  <!-- Metric cards -->
-  <!-- p99 latency -->
-  <rect x="6" y="132" width="74" height="40" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <text x="43" y="147" text-anchor="middle" font-family="'Cascadia Code','Fira Code','Courier New',monospace" font-size="7" fill="#8b949e">p99 latency</text>
-  <text x="43" y="164" text-anchor="middle" font-family="'Cascadia Code','Fira Code','Courier New',monospace" font-size="16" fill="#57ab5a">42ms</text>
-
-  <!-- Error rate -->
-  <rect x="90" y="132" width="74" height="40" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-  <text x="127" y="147" text-anchor="middle" font-family="'Cascadia Code','Fira Code','Courier New',monospace" font-size="7" fill="#8b949e">error rate</text>
-  <text x="127" y="164" text-anchor="middle" font-family="'Cascadia Code','Fira Code','Courier New',monospace" font-size="16" fill="#79c0ff">0.02%</text>
-
-  <!-- FinOps bar -->
-  <rect x="6" y="180" width="158" height="30" rx="4" fill="#0d1117" stroke="#ffa657" stroke-width="1" stroke-dasharray="4,2"/>
-  <text x="85" y="192" text-anchor="middle" font-family="'Cascadia Code','Fira Code','Courier New',monospace" font-size="7.5" fill="#ffa657">FinOps · Azure Budget</text>
-  <text x="85" y="204" text-anchor="middle" font-family="'Cascadia Code','Fira Code','Courier New',monospace" font-size="8" fill="rgba(255,166,87,0.65)">cloud spend &#x2193; 34%</text>
+  <!-- LOGS -->
+  <rect x="6" y="172" width="158" height="40" rx="4" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <rect x="6" y="172" width="4" height="40" rx="2" fill="#ffa657"/>
+  <text x="20" y="189" font-family="'Cascadia Code','Fira Code','Courier New',monospace" font-size="10" fill="#ffa657">&#x2462; LOGS</text>
+  <text x="20" y="200" font-family="'Cascadia Code','Fira Code','Courier New',monospace" font-size="7.5" fill="#8b949e">App Insights · Monitor</text>
+  <text x="20" y="210" font-family="'Cascadia Code','Fira Code','Courier New',monospace" font-size="6.5" fill="rgba(87,171,90,0.65)">&gt; INFO 42ms · 200 OK</text>
 </svg>
