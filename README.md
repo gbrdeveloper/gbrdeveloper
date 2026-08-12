@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/gbrgabriel/"><img src="https://img.shields.io/badge/LinkedIn-gbrgabriel-0077B5?logo=linkedin&style=flat-square" alt="LinkedIn" /></a>
 <a href="https://medium.com/@gbrdev.contato"><img src="https://img.shields.io/badge/Medium-@gbrdev.contato-000000?logo=medium&style=flat-square" alt="Medium" /></a>
 <a href="https://linktr.ee/gbrGabriel"><img src="https://img.shields.io/badge/Linktree-gbrGabriel-39E09B?logo=linktree&style=flat-square" alt="Linktree" /></a>
-<a href="https://drive.google.com/file/d/193HtaBvtraOoglFY9U8sOPOUCH5kxgzB/view?usp=sharing"><img src="https://img.shields.io/badge/Currículo-PDF-EA4335?logo=googledrive&style=flat-square" alt="Currículo" /></a>
+<a href="https://drive.google.com/file/d/1wzTKPM2akg-AGiUNfKSzfvuo2G42J4yQ/view"><img src="https://img.shields.io/badge/Currículo-PDF-EA4335?logo=googledrive&style=flat-square" alt="Currículo" /></a>
 
 </div>
 
